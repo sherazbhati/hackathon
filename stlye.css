@@ -1,0 +1,20 @@
+body {
+  background-color: #ffd700;
+}
+
+.federalistpigcontainr {
+  height: 100px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: space-between;
+}
+
+.links-parent {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px;
+    margin: 50px;
+
+}
